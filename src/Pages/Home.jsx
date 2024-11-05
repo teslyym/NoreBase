@@ -48,7 +48,7 @@ const Home = () => {
 
   return (
     <div className="max-w-[800px] mx-auto my-6 shadow-lg rounded-lg overflow-hidden">
-      <h1>NoreBase Cryptocurrency</h1>
+      <h1 className="flex justify-center">NoreBase Cryptocurrency</h1>
       {!isMobile ? (
         <table className="w-full">
           <thead>
