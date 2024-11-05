@@ -56,7 +56,7 @@ const Home = () => {
               <th className="text-left">💰 Coin</th>
               <th className="text-left">📜 Code</th>
               <th className="text-left"> 😛Price</th>
-              <th className="text-left">Total</th>
+              <th className="text-left"> 📊Total</th>
             </tr>
           </thead>
           <tbody>
